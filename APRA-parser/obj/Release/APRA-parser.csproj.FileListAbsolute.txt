@@ -1,0 +1,8 @@
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\bin\Release\APRA-parser.exe.config
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\bin\Release\APRA-parser.exe
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\bin\Release\APRA-parser.pdb
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\obj\Release\APRA_parser.Form1.resources
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\obj\Release\APRA_parser.Properties.Resources.resources
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\obj\Release\APRA-parser.csproj.GenerateResource.Cache
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\obj\Release\APRA-parser.exe
+C:\Users\herna\OneDrive\Documentos\Visual Studio 2015\Projects\APRA-parser\APRA-parser\obj\Release\APRA-parser.pdb
